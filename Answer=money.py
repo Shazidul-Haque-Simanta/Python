@@ -1,3 +1,5 @@
+#sample of answer the question and earn money type  game
+
 name=input("What is your name? \n")
 questions=[["Who is the father of muslim nation?","Mohammad (S.)","Adam(A.)","Musa(A.)","Ibrahim(A.)",4],
 ["Who is the Last Messenger  of ALLAH?","Prophet  Mohammad (S.)","Prophet Adam(A.)","Prophet Musa(A.)","Prophet Ibrahim(A.)",1],
